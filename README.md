@@ -1,11 +1,11 @@
 # Food Menu Web App 🍽️
 
-Une application web développée avec .NET ASP MVC.
+A web application developed with .NET ASP MVC.
 
-## 📸 Captures d'écran
+## 📸 Screenshots
 
-### 🏠 Page d'accueil
-![Home Page](screenshots/screen1.png)
+### 🏠 Home Page
+![Home Page](screenshots/screen2.png)
 
-### 📜 Page du menu
-![Menu Page](screenshots/screen2.png)
+### 📜 Dish Details Page
+![Dish Details Page](screenshots/screen1.png)
